@@ -1,4 +1,4 @@
 def topFiveMovies(movie1, movie2, movie3, movie4, movie5):
-    return GodzillaKingOfTheMonsters + GodzillavsKong + ThorRagnarok + BabyDriver + TerminatorDarkFate
+    return movie1 + movie2 + movie3 + movie4 + movie5
 
 print (topFiveMovies("GodzillaKingOfTheMonsters", "GodzillavsKong", "ThorRagnarok", "BabyDriver", "TerminatorDarkFate"))
